@@ -2,6 +2,9 @@
 
 ecg stuff, methods to denoise signals , detect features and classify heart disease.
 
+# 本程序断更，由于涉及保密问题，此内容将不再更新，留着占位。
+
+
 1.Preprocess
 数据预处理部分，心电波形的滤波，数据质量评估，数据归一化等。
 
