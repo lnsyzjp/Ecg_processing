@@ -2,7 +2,7 @@
 
 ecg stuff, methods to denoise signals , detect features and classify heart disease.
 
-# 本程序断更，由于涉及保密问题，此内容将不再更新，留着占位。
+# 本程序断更，由于涉及保密问题，此内容将不再更新，留着占位。所有相关内容都已删除。
 
 
 1.Preprocess
